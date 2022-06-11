@@ -39,10 +39,10 @@ class LoginPage extends React.Component {
                                 }
                             );
                     }}
-                    render={({ errors, status, touched, isSubmitting }) => (
+                    render={({ errors, status, touched}) => (
                         <Form className="loginForm"
                         >
-                            <div class="form-floating mb-3">
+                            <div className="form-floating mb-3">
 
                                 <Field name="email" type="email" placeholder=" " className={'form-control' + (errors.email && touched.email ? ' is-invalid' : '')} />
                                 <label htmlFor="email">E-Posta Adresi</label>
