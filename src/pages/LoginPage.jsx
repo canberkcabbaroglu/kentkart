@@ -48,7 +48,7 @@ class LoginPage extends React.Component {
                                 <label htmlFor="email">E-Posta Adresi</label>
                                 <ErrorMessage name="email" component="div" className="invalid-feedback" />
                             </div>
-                            <div class="form-floating mb-3">
+                            <div className="form-floating mb-3">
 
                                 <Field name="password" type="password" placeholder=" " className={'form-control' + (errors.password && touched.password ? ' is-invalid' : '')} />
                                 <label htmlFor="password">Şifre</label>
