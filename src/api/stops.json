@@ -1,0 +1,403 @@
+[
+    {
+        "stop_id": 0,
+        "stop_name": "MİLLİ İRADE MEYDANI  K.YANYOL",
+        "stop_code": "80364",
+        "stop_lon": 29.943461,
+        "stop_lat": 40.762741,
+        "stop_desc": "MİLLİ İRADE MEYDANI  K.YANYOL durağı"
+    },
+    {
+        "stop_id": 1,
+        "stop_name": "SUSAM SOKAK",
+        "stop_code": "81033",
+        "stop_lon": 29.943825,
+        "stop_lat": 40.7631336,
+        "stop_desc": "SUSAM SOKAK durağı"
+    },
+    {
+        "stop_id": 2,
+        "stop_name": "VALİLİK YANYOL",
+        "stop_code": "81144",
+        "stop_lon": 29.945336,
+        "stop_lat": 40.7625062,
+        "stop_desc": "VALİLİK YANYOL durağı"
+    },
+    {
+        "stop_id": 3,
+        "stop_name": "VALİLİK D-100",
+        "stop_code": "80363",
+        "stop_lon": 29.94560804,
+        "stop_lat": 40.76227705,
+        "stop_desc": "VALİLİK D-100 durağı"
+    },
+    {
+        "stop_id": 4,
+        "stop_name": "VALİLİK",
+        "stop_code": "80341",
+        "stop_lon": 29.94621552,
+        "stop_lat": 40.76278816,
+        "stop_desc": "VALİLİK durağı"
+    },
+    {
+        "stop_id": 5,
+        "stop_name": "HASAN GEMİCİ SPOR SALONU 1",
+        "stop_code": "42234",
+        "stop_lon": 29.944635,
+        "stop_lat": 40.760612,
+        "stop_desc": "HASAN GEMİCİ SPOR SALONU 1 durağı"
+    },
+    {
+        "stop_id": 6,
+        "stop_name": "ŞEHİT RAFET KARACAN",
+        "stop_code": "80884",
+        "stop_lon": 29.94300329,
+        "stop_lat": 40.76508891,
+        "stop_desc": "ŞEHİT RAFET KARACAN durağı"
+    },
+    {
+        "stop_id": 7,
+        "stop_name": "RAFET KARACAN CAD. VALİLİK",
+        "stop_code": "41714",
+        "stop_lon": 29.9452414,
+        "stop_lat": 40.76476824,
+        "stop_desc": "RAFET KARACAN CAD. VALİLİK durağı"
+    },
+    {
+        "stop_id": 8,
+        "stop_name": "YUNUS EMRE KÜLTÜR MERKEZİ",
+        "stop_code": "80399",
+        "stop_lon": 29.94068199,
+        "stop_lat": 40.76418312,
+        "stop_desc": "YUNUS EMRE KÜLTÜR MERKEZİ durağı"
+    },
+    {
+        "stop_id": 9,
+        "stop_name": "15 TEMMUZ MİLLİ İRADE MEYDANI",
+        "stop_code": "80397",
+        "stop_lon": 29.94099029,
+        "stop_lat": 40.76452548,
+        "stop_desc": "15 TEMMUZ MİLLİ İRADE MEYDANI durağı"
+    },
+    {
+        "stop_id": 10,
+        "stop_name": "BULVAR",
+        "stop_code": "80613",
+        "stop_lon": 29.94290216,
+        "stop_lat": 40.76555007,
+        "stop_desc": "BULVAR durağı"
+    },
+    {
+        "stop_id": 11,
+        "stop_name": "BULVAR 1",
+        "stop_code": "80614",
+        "stop_lon": 29.942932,
+        "stop_lat": 40.765713,
+        "stop_desc": "BULVAR 1 durağı"
+    },
+    {
+        "stop_id": 12,
+        "stop_name": "ESENDAL",
+        "stop_code": "80615",
+        "stop_lon": 29.944736,
+        "stop_lat": 40.765587,
+        "stop_desc": "ESENDAL durağı"
+    },
+    {
+        "stop_id": 13,
+        "stop_name": "TİCARET MERKEZİ",
+        "stop_code": "80396",
+        "stop_lon": 29.94146137,
+        "stop_lat": 40.76001855,
+        "stop_desc": "TİCARET MERKEZİ durağı"
+    },
+    {
+        "stop_id": 14,
+        "stop_name": "BULVAR PARK",
+        "stop_code": "80616",
+        "stop_lon": 29.94591457,
+        "stop_lat": 40.76526917,
+        "stop_desc": "BULVAR PARK durağı"
+    },
+    {
+        "stop_id": 15,
+        "stop_name": "ESKİ HAL",
+        "stop_code": "80389",
+        "stop_lon": 29.94333039,
+        "stop_lat": 40.75916962,
+        "stop_desc": "ESKİ HAL durağı"
+    },
+    {
+        "stop_id": 16,
+        "stop_name": "MİLLİ İRADE MEYDANI",
+        "stop_code": "11006",
+        "stop_lon": 29.94030321,
+        "stop_lat": 40.76546385,
+        "stop_desc": "MİLLİ İRADE MEYDANI durağı"
+    },
+    {
+        "stop_id": 17,
+        "stop_name": "İZMİT İTFAİYE",
+        "stop_code": "80373",
+        "stop_lon": 29.94168769,
+        "stop_lat": 40.75922591,
+        "stop_desc": "İZMİT İTFAİYE durağı"
+    },
+    {
+        "stop_id": 18,
+        "stop_name": "REAL",
+        "stop_code": "80342",
+        "stop_lon": 29.94831436,
+        "stop_lat": 40.76288812,
+        "stop_desc": "REAL durağı"
+    },
+    {
+        "stop_id": 19,
+        "stop_name": "ŞEHİT RAFET KARACAN BULVARI",
+        "stop_code": "80872",
+        "stop_lon": 29.94795544,
+        "stop_lat": 40.76441601,
+        "stop_desc": "ŞEHİT RAFET KARACAN BULVARI durağı"
+    },
+    {
+        "stop_id": 20,
+        "stop_name": "ATATÜRK ORTAOKULU",
+        "stop_code": "80617",
+        "stop_lon": 29.947529,
+        "stop_lat": 40.765312,
+        "stop_desc": "ATATÜRK ORTAOKULU durağı"
+    },
+    {
+        "stop_id": 21,
+        "stop_name": "EREN CAMİİ",
+        "stop_code": "80025",
+        "stop_lon": 29.93887067,
+        "stop_lat": 40.76497334,
+        "stop_desc": "EREN CAMİİ durağı"
+    },
+    {
+        "stop_id": 22,
+        "stop_name": "FAKÜLTE 1",
+        "stop_code": "80024",
+        "stop_lon": 29.939255,
+        "stop_lat": 40.765427,
+        "stop_desc": "FAKÜLTE 1 durağı"
+    },
+    {
+        "stop_id": 23,
+        "stop_name": "ATATÜRK ORTAOKULU 1",
+        "stop_code": "80618",
+        "stop_lon": 29.94830185,
+        "stop_lat": 40.76505524,
+        "stop_desc": "ATATÜRK ORTAOKULU 1 durağı"
+    },
+    {
+        "stop_id": 24,
+        "stop_name": "TURGUT ÖZAL KUZEY YANYOL",
+        "stop_code": "80343",
+        "stop_lon": 29.93734505,
+        "stop_lat": 40.76205037,
+        "stop_desc": "TURGUT ÖZAL KUZEY YANYOL durağı"
+    },
+    {
+        "stop_id": 25,
+        "stop_name": "GIDA TOPTANCILARI SİTESİ 1",
+        "stop_code": "80390",
+        "stop_lon": 29.9485817,
+        "stop_lat": 40.7597586,
+        "stop_desc": "GIDA TOPTANCILARI SİTESİ 1 durağı"
+    },
+    {
+        "stop_id": 26,
+        "stop_name": "GIDA TOPTANCILARI SİTESİ",
+        "stop_code": "80391",
+        "stop_lon": 29.9487333,
+        "stop_lat": 40.7598483,
+        "stop_desc": "GIDA TOPTANCILARI SİTESİ durağı"
+    },
+    {
+        "stop_id": 27,
+        "stop_name": "FUAR",
+        "stop_code": "11007",
+        "stop_lon": 29.93659996,
+        "stop_lat": 40.76234951,
+        "stop_desc": "FUAR durağı"
+    },
+    {
+        "stop_id": 28,
+        "stop_name": "EMNİYET",
+        "stop_code": "80335",
+        "stop_lon": 29.93634633,
+        "stop_lat": 40.76222144,
+        "stop_desc": "EMNİYET durağı"
+    },
+    {
+        "stop_id": 29,
+        "stop_name": "GAZANFER BİLGE BULVARI",
+        "stop_code": "80064",
+        "stop_lon": 29.94023116,
+        "stop_lat": 40.76762511,
+        "stop_desc": "GAZANFER BİLGE BULVARI durağı"
+    },
+    {
+        "stop_id": 30,
+        "stop_name": "42 EVLER CAMİİ 1",
+        "stop_code": "80392",
+        "stop_lon": 29.9500107,
+        "stop_lat": 40.7603783,
+        "stop_desc": "42 EVLER CAMİİ 1 durağı"
+    },
+    {
+        "stop_id": 31,
+        "stop_name": "D-100 TURGUT ÖZAL KÖPRÜSÜ",
+        "stop_code": "80340",
+        "stop_lon": 29.93607911,
+        "stop_lat": 40.76196497,
+        "stop_desc": "D-100 TURGUT ÖZAL KÖPRÜSÜ durağı"
+    },
+    {
+        "stop_id": 32,
+        "stop_name": "BAĞDAT 2",
+        "stop_code": "80052",
+        "stop_lon": 29.94600496,
+        "stop_lat": 40.76799468,
+        "stop_desc": "BAĞDAT 2 durağı"
+    },
+    {
+        "stop_id": 33,
+        "stop_name": "İZMİT M.T.A.L.",
+        "stop_code": "80027",
+        "stop_lon": 29.93633866,
+        "stop_lat": 40.7646245,
+        "stop_desc": "İZMİT M.T.A.L. durağı"
+    },
+    {
+        "stop_id": 34,
+        "stop_name": "M.A.P. BAĞDAT CADDESİ 1",
+        "stop_code": "80051",
+        "stop_lon": 29.9436639,
+        "stop_lat": 40.76839742,
+        "stop_desc": "M.A.P. BAĞDAT CADDESİ 1 durağı"
+    },
+    {
+        "stop_id": 35,
+        "stop_name": "42 EVLER CAMİİ",
+        "stop_code": "80393",
+        "stop_lon": 29.950118,
+        "stop_lat": 40.7602034,
+        "stop_desc": "42 EVLER CAMİİ durağı"
+    },
+    {
+        "stop_id": 36,
+        "stop_name": "TURGUT ÖZAL GÜNEY YANYOL 2",
+        "stop_code": "80372",
+        "stop_lon": 29.93596986,
+        "stop_lat": 40.76125276,
+        "stop_desc": "TURGUT ÖZAL GÜNEY YANYOL 2 durağı"
+    },
+    {
+        "stop_id": 37,
+        "stop_name": "SANTRAL",
+        "stop_code": "80050",
+        "stop_lon": 29.94094934,
+        "stop_lat": 40.76829652,
+        "stop_desc": "SANTRAL durağı"
+    },
+    {
+        "stop_id": 38,
+        "stop_name": "AĞLAYAN ÇINAR 1",
+        "stop_code": "80681",
+        "stop_lon": 29.950968,
+        "stop_lat": 40.763992,
+        "stop_desc": "AĞLAYAN ÇINAR 1 durağı"
+    },
+    {
+        "stop_id": 39,
+        "stop_name": "AĞLAYAN ÇINAR",
+        "stop_code": "80999",
+        "stop_lon": 29.9511736,
+        "stop_lat": 40.7641156,
+        "stop_desc": "AĞLAYAN ÇINAR durağı"
+    },
+    {
+        "stop_id": 40,
+        "stop_name": "M.A.P. BAĞDAT CADDESİ",
+        "stop_code": "41373",
+        "stop_lon": 29.948843,
+        "stop_lat": 40.767235,
+        "stop_desc": "M.A.P. BAĞDAT CADDESİ durağı"
+    },
+    {
+        "stop_id": 41,
+        "stop_name": "SANAT OKULU",
+        "stop_code": "80026",
+        "stop_lon": 29.9356171,
+        "stop_lat": 40.7648643,
+        "stop_desc": "SANAT OKULU durağı"
+    },
+    {
+        "stop_id": 42,
+        "stop_name": "TÜRK PİRELLİ İLKOKULU 1",
+        "stop_code": "80996",
+        "stop_lon": 29.9511592,
+        "stop_lat": 40.7605969,
+        "stop_desc": "TÜRK PİRELLİ İLKOKULU 1 durağı"
+    },
+    {
+        "stop_id": 43,
+        "stop_name": "MİMAR SİNAN LİSESİ",
+        "stop_code": "80049",
+        "stop_lon": 29.93948021,
+        "stop_lat": 40.76836401,
+        "stop_desc": "MİMAR SİNAN LİSESİ durağı"
+    },
+    {
+        "stop_id": 44,
+        "stop_name": "LEYLA ATAKAN",
+        "stop_code": "80398",
+        "stop_lon": 29.9348,
+        "stop_lat": 40.763547,
+        "stop_desc": "LEYLA ATAKAN durağı"
+    },
+    {
+        "stop_id": 45,
+        "stop_name": "KOCAELİ DEVLET HASTANESİ",
+        "stop_code": "80048",
+        "stop_lon": 29.937741,
+        "stop_lat": 40.767813,
+        "stop_desc": "KOCAELİ DEVLET HASTANESİ durağı"
+    },
+    {
+        "stop_id": 46,
+        "stop_name": "TÜRK PİRELLİ ORTAOKULU",
+        "stop_code": "80997",
+        "stop_lon": 29.9519165,
+        "stop_lat": 40.7610999,
+        "stop_desc": "TÜRK PİRELLİ ORTAOKULU durağı"
+    },
+    {
+        "stop_id": 47,
+        "stop_name": "KANLIBAĞ 2",
+        "stop_code": "80062",
+        "stop_lon": 29.942702,
+        "stop_lat": 40.769404,
+        "stop_desc": "KANLIBAĞ 2 durağı"
+    },
+    {
+        "stop_id": 48,
+        "stop_name": "CANCAN SOKAK",
+        "stop_code": "42055",
+        "stop_lon": 29.94028,
+        "stop_lat": 40.769142,
+        "stop_desc": "CANCAN SOKAK durağı"
+    },
+    {
+        "stop_id": 49,
+        "stop_name": "DOĞU KIŞLA",
+        "stop_code": "11005",
+        "stop_lon": 29.951108,
+        "stop_lat": 40.766423,
+        "stop_desc": "DOĞU KIŞLA durağı"
+    }
+]
+ 

@@ -1,0 +1,46 @@
+.homepage {
+  min-height: 100vh;
+  background: transparent;
+  padding: 0;
+}
+
+.navbar-expand {
+  justify-content: flex-end;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  margin-right: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: white;
+  background-color: rgb(9, 96, 227);
+
+}
+
+h6 {
+  text-transform: uppercase;
+}
+
+a {
+  cursor: pointer;
+}
+
+.alert-primary {
+  margin-top: 20px;
+}
+
+.title {
+  color: blue;
+
+  text-align: center;
+}
+
+.information {
+  display: flex;
+}
+
+.information-title {
+  color: rgb(16, 73, 244);
+}

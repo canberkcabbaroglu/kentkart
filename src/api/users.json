@@ -1,0 +1,27 @@
+  [
+    {
+      "id": 1,
+      "name": "orhan",
+      "surname": "aydoğdu",
+      "password": "12341214",
+      "email": "orhan@aydogdu.com.tr",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "enes",
+      "surname": "kahraman",
+      "password": "98776241",
+      "email": "enes@kahraman.com.tr",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "enes",
+      "surname": "poyraz",
+      "password": "12416754",
+      "email": "enes@poyraz.com.tr",
+      "status": true
+    } 
+  ]
+ 
